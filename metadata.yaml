@@ -1,0 +1,47 @@
+_repo: A-Century-of-Science-and-Other-Essays_40590
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Green, Edmund Fisk
+    - Fisk, John
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '2012-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40590'
+  lccn: 00000048
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Ireland'
+- !lcsh 'Parkman, Francis, 1823-1893'
+- !lcsh 'Evolution'
+- !lcc 'AC'
+- !lcsh 'Cook, Joseph, 1838-1901'
+- !lcsh 'Freeman, Edward A. (Edward Augustus), 1823-1892'
+- !lcsh 'Arbitration (International law)'
+- !lcsh 'Cambridge (Mass.) -- Description and travel'
+- !lcsh 'Vane, Henry, Sir, 1613-1662'
+- !lcsh 'Youmans, Edward Livingston, 1821-1887'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship'
+- !lcsh 'Science -- History'
+tableOfContents: A century of science -- The doctrine of evolution; its scope and
+  purport -- Edward Livingston Youmans -- The part played by infancy in the evolution
+  of man -- The origins of liberal thought in America -- Sir Harry Vane -- The arbitration
+  treaty -- Francis Parkman -- Edward Augustus Freeman -- Cambridge as village and
+  city -- A harvest of Irish folk-lore -- Guessing at half and multiplying by two
+  -- Forty years of Bacon-Shakespeare folly -- Some cranks and their crochets.
+title: A Century of Science, and Other Essays
+url: http://www.gutenberg.org/ebooks/40590
